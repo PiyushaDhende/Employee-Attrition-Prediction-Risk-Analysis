@@ -6,7 +6,7 @@ The project combines **Exploratory Data Analysis, Data Preprocessing, Machine Le
 
 ## 🚀 Live Application
 
-👉 **[Open Employee Attrition & Risk Analysis App](https://hatchable.com/r/SDJCZKBK)**
+👉 **[Open Employee Attrition & Risk Analysis App](https://employee-attrition.hatchable.site)**
 
 The interactive application allows users to explore attrition insights and simulate employee risk scenarios based on important factors identified during the analysis.
 
